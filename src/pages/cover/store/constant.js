@@ -1,0 +1,8 @@
+export const CHANGE_BANNER = "CHANGE_BANNER";
+export const CHANGE_ALBUMRECOM = "CHANGE_ALBUMRECOM";
+export const CHANGE_HOTRECOM = "CHANGE_HOTRECOM";
+
+export const CHANGE_RANKX = "CHANGE_RANKX";
+export const CHANGE_RANKY = "CHANGE_RANKY";
+export const CHANGE_RANKZ = "CHANGE_RANKZ";
+
